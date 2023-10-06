@@ -1,0 +1,9 @@
+{
+    "packageRules": [
+      {
+        "matchManagers": ["gradle"],
+        "enabled": true
+      }
+    ]
+  }
+  
